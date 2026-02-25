@@ -1,0 +1,6 @@
+# This directory will contain auto-generated Homebrew casks
+#
+# Casks are automatically created and updated by GoReleaser when new versions
+# are released. Do not manually edit cask files in this directory.
+#
+# For more information, see: https://github.com/Sam-Lane/homebrew-tap
